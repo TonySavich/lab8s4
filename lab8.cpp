@@ -16,7 +16,7 @@ int main()
     int mas[N][N];
 
 
-    std::ifstream in("in8.txt");
+    std::ifstream in("in.txt");
     if (in.is_open())
     {
         while (!in.eof()) {
